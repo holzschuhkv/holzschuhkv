@@ -16,4 +16,4 @@ It is an advanced web scraping service that uses new technologies to obtain publ
 If this service works correctly, it will be made public.
 
 
-Process of completion [====>.......................................] 20%
+Process of completion [==========>________________________________________] 20%
