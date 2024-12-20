@@ -1,14 +1,15 @@
-## Hi there 👋
+# Welcome
 
-**holzschuhkv/holzschuhkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## ConsoleSandbox
+This project is a simple C# solution for testing / learning new features and use cases in the .net universe.
+
+New code will be added over time.
+
+Feel free to add / edit / refactor the source code.
+
+
+## NCodebase
+NCodebase is an private project written in .NET Core and Angular.
+It is an advanced web scraping service, which uses new technologies to get public data without getting blocked.
